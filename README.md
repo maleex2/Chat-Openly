@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Real Time Chat 
+
+###### Try it out [Live Demo](https://epic-brahmagupta-d61f3d.netlify.app/).
+
+
+Tech Stack: React, NodeJ, Socket.io and npm.
+
+
 
 ## Available Scripts
 
