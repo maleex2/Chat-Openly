@@ -1,6 +1,6 @@
 #  Chat with your friends realtime - quick and secure
 
-#### [Live Demo](https://epic-brahmagupta-d61f3d.netlify.app/)
+#### [Live Demo](https://easy-chat.netlify.app)
 
 ##### No need of account - just join a room with a nickname
 
