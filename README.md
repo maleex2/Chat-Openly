@@ -1,4 +1,4 @@
-#  Chat with your friends realtime - quick and secure
+#  Chat with your friends realtime
 
 #### [Live Demo](https://easy-chat.netlify.app)
 
